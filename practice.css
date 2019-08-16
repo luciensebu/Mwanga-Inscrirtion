@@ -1,0 +1,30 @@
+.bg{
+	background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/mwanga.jpg);	
+	height: -webkit-fill-available;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 40%;
+	text-align: center;
+	padding-top: 20%;
+}	
+#hr{
+	border-color: white;
+	margin-right: 30%;
+	margin-left: 30%;
+}
+a{
+    color: #fff!important;
+}
+.navbar {
+    background-color: #011433!important;
+}
+
+.btn{
+	background-color: #011433!important;
+	color: white!important;
+}
+.jumbotron{
+	background: radial-gradient(black, transparent);
+}
